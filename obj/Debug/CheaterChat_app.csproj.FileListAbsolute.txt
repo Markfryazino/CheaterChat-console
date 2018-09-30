@@ -1,0 +1,7 @@
+D:\Programs 2\CheaterChat\CheaterChat_app\bin\Debug\CheaterChat_app.exe.config
+D:\Programs 2\CheaterChat\CheaterChat_app\bin\Debug\CheaterChat_app.exe
+D:\Programs 2\CheaterChat\CheaterChat_app\bin\Debug\CheaterChat_app.pdb
+D:\Programs 2\CheaterChat\CheaterChat_app\obj\Debug\CheaterChat_app.csprojAssemblyReference.cache
+D:\Programs 2\CheaterChat\CheaterChat_app\obj\Debug\CheaterChat_app.csproj.CoreCompileInputs.cache
+D:\Programs 2\CheaterChat\CheaterChat_app\obj\Debug\CheaterChat_app.exe
+D:\Programs 2\CheaterChat\CheaterChat_app\obj\Debug\CheaterChat_app.pdb
